@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//resources/datasources.properties=UTF-8
+encoding//resources/log4j.properties=UTF-8
+encoding//resources/mybatis-config.xml=UTF-8
+encoding//src/dao/InvitationMapper.java=UTF-8
